@@ -40,7 +40,7 @@ local Text = [[
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '߷ • 𝘽𝘼𝙍𝙇𝙊 𝙎𝙊𝙐𝙍𝘾𝙀 • ߷ ', url="t.me/bar_lo0o0o0o0o"}}, 
+{{text = '߷ • 𝑫𝑨𝑹𝑲 𝑺𝑯𝑲 𝑬𝑳𝑱𝑶𝑲𝑬𝑹 • ߷ ', url="t.me/EM_96"}}, 
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendPhoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/swry00/19&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
@@ -643,7 +643,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_," ☆معطله") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[باي..😺💜](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[باي..😺💜](t.me/EM_96)')
 return false
 end
 
@@ -656,7 +656,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[خدوني معاكم برايفت والنبي..🥺💜](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[خدوني معاكم برايفت والنبي..🥺💜](t.me/EM_96)')
 return false
 end
 end
@@ -701,7 +701,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[نزل عينك تحت كدا علشان هتخاد علي قفاك..☆♥️](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[نزل عينك تحت كدا علشان هتخاد علي قفاك..☆♥️](t.me/EM_96)')
 return false
 end
 end
@@ -727,7 +727,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[انت الي حلو ياقمر..♥️🦋](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[انت الي حلو ياقمر..♥️🦋](t.me/EM_96)')
 return false
 end
 
@@ -740,7 +740,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[انا عايز مح انا كمان 🥺💛](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[انا عايز مح انا كمان 🥺💛](t.me/EM_96)')
 return false
 end
 end
@@ -755,7 +755,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[وحيات امك ياكبتن خدوني معاكو بيف...🥺💔](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[وحيات امك ياكبتن خدوني معاكو بيف...🥺💔](t.me/EM_96)')
 return false
 end
 end
@@ -770,7 +770,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[بتعيط تيب لي طيب..😥](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[بتعيط تيب لي طيب..😥](t.me/EM_96)')
 return false
 end
 end
@@ -784,7 +784,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[ونجيب اشخاص ...😂😜](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[ونجيب اشخاص ...😂😜](t.me/EM_96)')
 return false
 end
 end
@@ -799,7 +799,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[بـعشـقق .🥰❤️](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[بـعشـقق .🥰❤️](t.me/EM_96)')
 return false
 end
 end
@@ -814,7 +814,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[وحيات امك ياكبتن خدوني معاكو بيف...🥺💔](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[وحيات امك ياكبتن خدوني معاكو بيف...🥺💔](t.me/EM_96)')
 return false
 end
 end
@@ -828,7 +828,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[وعليكم السلام ..🖤☆](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[وعليكم السلام ..🖤☆](t.me/EM_96)')
 return false
 end
 end
@@ -842,7 +842,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[خخخ امال ..😹](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[خخخ امال ..😹](t.me/EM_96)')
 return false
 end
 end
@@ -856,7 +856,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[قامد قموده ..🌝♥️](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[قامد قموده ..🌝♥️](t.me/EM_96)')
 return false
 end
 end
@@ -870,7 +870,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[انا اجمد ..☆💕](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[انا اجمد ..☆💕](t.me/EM_96)')
 return false
 end
 end
@@ -884,7 +884,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[انا اجمد ..??💕](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[انا اجمد ..??💕](t.me/EM_96)')
 return false
 end
 end
@@ -898,7 +898,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[مش هروح ..😹👻](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[مش هروح ..😹👻](t.me/EM_96)')
 return false
 end
 end
@@ -912,7 +912,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[مش هتيجي مش هروح ..😹👻](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[مش هتيجي مش هروح ..😹👻](t.me/EM_96)')
 return false
 end
 end
@@ -926,7 +926,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[الود كبر وبقي عندو بنت ..😻💥](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[الود كبر وبقي عندو بنت ..😻💥](t.me/EM_96)')
 return false
 end
 end
@@ -940,7 +940,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[عندو كام سنه ..😹💥](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[عندو كام سنه ..😹💥](t.me/EM_96)')
 return false
 end
 end
@@ -954,7 +954,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[القمر مهو بيضكك اهوه ..☆💕](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[القمر مهو بيضكك اهوه ..☆💕](t.me/EM_96)')
 return false
 end
 end
@@ -968,7 +968,7 @@ if not my_ph then
 send(msg.chat_id_, msg.id_,"  ") 
 return false  
 end
-send(msg.chat_id_,msg.id_, '[القمر مهو بيضكك اهوه ..☆💕](t.me/bar_lo0o0o0o0o)')
+send(msg.chat_id_,msg.id_, '[القمر مهو بيضكك اهوه ..☆💕](t.me/EM_96)')
 return false
 end
 end
